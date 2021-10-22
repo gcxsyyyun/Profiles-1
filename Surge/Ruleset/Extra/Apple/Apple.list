@@ -21,3 +21,8 @@ IP-CIDR,144.178.0.0/19,no-resolve
 IP-CIDR,192.35.50.0/24,no-resolve
 IP-CIDR,198.183.17.0/24,no-resolve
 IP-CIDR,205.180.175.0/24,no-resolve
+PROCESS-NAME,LookupViewService
+PROCESS-NAME,/System/Library/PrivateFrameworks/Lookup.framework/Versions/A/XPCServices/LookupViewService.xpc/Contents/MacOS/LookupViewService
+DOMAIN,lookup-api.apple.com
+DOMAIN,lookup-api.apple.com.edgekey.net
+DOMAIN,e16991.b.akamaiedge.net
